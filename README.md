@@ -1,6 +1,6 @@
 # Hi, I'm Myungkeun 👋
 
-**Builder PO who codes** — 기획부터 개발까지 직접 만드는 프로덕트 오너
+**Builder PO who codes / VIVE CODER** — 기획부터 개발까지 직접 만드는 프로덕트 오너 / 바이브 코더
 
 ## Tech Stack
 
